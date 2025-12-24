@@ -28,7 +28,7 @@ html {
 }
 
 .topLandingTexttoSpeech {
-  background: url("/assets/images/SPTBG.png");
+  background: url(assets/images/hero.png);
   background-size: cover;
   height: auto;
   width: 100%;
@@ -1145,7 +1145,7 @@ html {
   }
 
   .logo img {
-    width: 13vh;
+    width: 4vh;
     height: auto;
     margin-right: 1vh;
     margin-left: 0.5vh;
@@ -1946,7 +1946,7 @@ html {
   }
 
   .footerLogo img {
-    width: 50%;
+    width: 8%;
   }
 
   .footerLogo span {
