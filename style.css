@@ -28,7 +28,7 @@ html {
 }
 
 .topLandingTexttoSpeech {
-  background: url("/Assets/Images/SPTBG.png");
+  background: url("assets/Images/SPTBG.png");
   background-size: cover;
   height: auto;
   width: 100%;
@@ -393,7 +393,7 @@ html {
 .ultimatetextsectionleft h2 {
   font-size: 2.4vw;
   font-weight: 700;
-  background: linear-gradient(92.8deg, #38EAF4 -19.46%, #FFFFFF 100%);
+  background: linear-gradient(92.8deg, #38eaf4 -19.46%, #ffffff 100%);
   margin-bottom: 2vw;
   padding-right: 2.5vw;
   margin: auto;
@@ -410,7 +410,7 @@ html {
   font-size: 1.6vw;
   line-height: 2.2vw;
   font-weight: 300;
-  color: #FFFFFFCC;
+  color: #ffffffcc;
 }
 
 .speechtotextpointscards {
@@ -432,7 +432,7 @@ html {
 
 .speechtotextcard {
   background-color: black;
-  border: 0.2vw solid var(--Grays-White, #FFFFFF);
+  border: 0.2vw solid var(--Grays-White, #ffffff);
   padding: 2vw 1.2vw;
   border-radius: 1.5vw;
   text-align: center;
@@ -615,7 +615,7 @@ html {
   font-size: 1.6vw;
   line-height: 2.2vw;
   font-weight: 300;
-  color: #FFFFFFCC;
+  color: #ffffffcc;
   padding-right: 5vw;
 }
 
@@ -692,7 +692,7 @@ html {
 .clientCard {
   width: 100%;
   height: auto;
-  border: 0.14vw solid #FFFFFF;
+  border: 0.14vw solid #ffffff;
   border-radius: 1.3vw;
   padding-top: 1.5vw;
   padding-bottom: 2.8vw;
@@ -768,7 +768,7 @@ html {
   font-size: 1.6vw;
   line-height: 2.2vw;
   font-weight: 300;
-  color: #FFFFFFCC;
+  color: #ffffffcc;
   padding-right: 2vw;
 }
 
@@ -864,7 +864,7 @@ html {
   font-size: 1.6vw;
   line-height: 2.2vw;
   font-weight: 300;
-  color: #FFFFFFCC;
+  color: #ffffffcc;
   padding-right: 5vw;
 }
 
@@ -917,7 +917,7 @@ html {
   font-size: 1.6vw;
   line-height: 2.2vw;
   font-weight: 300;
-  color: #FFFFFFCC;
+  color: #ffffffcc;
   padding-right: 2vw;
 }
 
@@ -1039,12 +1039,10 @@ html {
   line-height: 1.8vw;
   letter-spacing: -0.06vw;
   text-align: center;
-
 }
 
 .footerPoints p a {
   text-decoration: none;
-
 }
 
 .footerTermsAndPrivacy {
@@ -1071,9 +1069,8 @@ html {
   margin-left: 0vw;
 }
 
-
 .footerBorder {
-  border-bottom: 0.15vw solid #ADADAD63;
+  border-bottom: 0.15vw solid #adadad63;
   width: 90%;
   margin: auto;
   margin-top: 0.5vw;
@@ -1123,8 +1120,6 @@ html {
   font-size: 1.4vw;
   text-decoration: none;
 }
-
-
 
 @media screen and (max-width: 768px) {
   .navbar {
@@ -1351,7 +1346,6 @@ html {
     background-color: #333;
     border-radius: 1vh;
     padding: 2vh 3vh;
-
   }
 
   .brand {
@@ -1671,7 +1665,6 @@ html {
   .clientRatingImage {
     width: 8vh;
     height: auto;
-
   }
 
   .clientCard h2 {
@@ -1984,13 +1977,11 @@ html {
     width: 26%;
     margin-left: 1%;
     margin-top: 7%;
-
   }
 
   .footerPoints p a {
     text-decoration: none;
     margin-left: 0vh;
-
   }
 
   .footerTermsAndPrivacy {
@@ -2017,7 +2008,6 @@ html {
   .footerTermsAndPrivacy i {
     font-size: 0.4vh;
     margin-top: 7%;
-
   }
 
   .footerTermsAndPrivacy p a {
